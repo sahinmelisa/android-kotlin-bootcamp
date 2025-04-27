@@ -1,4 +1,4 @@
-package Ödevler
+package Homeworks
 
 fun main() {
     println("Derece -> Fahrenheit Dönüşümü: " + dereceToFahrenheit(24.0))

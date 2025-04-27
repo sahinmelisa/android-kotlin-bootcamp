@@ -1,4 +1,4 @@
-package Ödevler
+package Homeworks
 
 fun main() {
     // Melisa Şahin

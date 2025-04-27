@@ -1,4 +1,4 @@
-package Ödevler
+package Homeworks
 
 fun dereceToFahrenheit(celsius: Double): Double {
     return celsius * 1.8 + 32
