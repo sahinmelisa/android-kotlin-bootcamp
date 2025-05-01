@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PlantWorld</string>
+    <string name="plant_name">Swiss Cheese Plant (Monstera Deliciosa) Curvy</string>
+    <string name="plant_desc">The plant is 30-40 cm including the pot. Pot diameter is 12 cm. Prefers bright and
+        semi-shaded areas without direct sunlight. Likes moist soil. 21°C and above is suitable in summer.
+        Toxic to pets if ingested.</string>
+    <string name="price">499.90 TL</string>
+    <string name="add_to_cart">Add to Cart</string>
+</resources>
