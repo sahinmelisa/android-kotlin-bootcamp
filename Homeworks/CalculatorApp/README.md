@@ -38,5 +38,5 @@ Bu proje, Android Studio ve Kotlin kullanılarak geliştirilen basit ama modern 
 
 1. Bu repoyu klonla:
    ```bash
-   git clone https://github.com/sahinmelisa/android-kotlin-bootcamp.git
+   git clone https://github.com/sahinmelisa/android-kotlin-bootcamp/tree/main/Homeworks/CalculatorApp.git
    ```
